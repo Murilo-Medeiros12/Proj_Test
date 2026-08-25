@@ -1,4 +1,16 @@
 export class Concessionaria {
+    static nome(nome: any) {
+        throw new Error('Method not implemented.');
+    }
+    static cnpj(cnpj: any) {
+        throw new Error('Method not implemented.');
+    }
+    static cidade(cidade: any) {
+        throw new Error('Method not implemented.');
+    }
+    static id(id: any) {
+        throw new Error('Method not implemented.');
+    }
     id: number | any;
     nome: String;
     cnpj: String;

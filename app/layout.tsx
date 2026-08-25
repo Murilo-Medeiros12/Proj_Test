@@ -3,7 +3,7 @@ import "./globals.css";
 import Navbar from "./components/NavBar";
 
 export const metadata: Metadata = {
-  title: "Veiculos Luan",
+  title: "murilo",
   description: "Compra e venda de veiculos.",
 };
 
